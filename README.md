@@ -1,2 +1,14 @@
 # taller1_TAIA_PUJ
 Taller 1 - Topicos avanzados en Inteligencia Artificial
+Autores: Daniel Chavarro
+         Alexander Luna Ruiz
+
+
+1. Ejecutar el docker:
+sudo docker run -it --name tfx --rm -p 8888:8888 -p 6006:6006 -v $PWD:/tfx/src --entrypoint /run_jupyter.sh  tensorflow/tfx:1.12.0
+
+2. Una vez se cargue el docker, se ingresa a la URL generada por el comando 'docker run' y se ingresa con el token generado.
+
+3. Se abre el archivo 'proyecto1_Topicos.ipynb'.
+
+4. Se sigen las instrucciones dadas en el notebook.

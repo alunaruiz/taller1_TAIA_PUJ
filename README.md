@@ -13,3 +13,13 @@ En este caso, la ejecución del docker file ejecuta a su vez las dependencias qu
 3. Se abre el archivo 'proyecto1_Topicos.ipynb'.
 
 4. Se sigen las instrucciones dadas en el notebook.
+
+
+
+
+
+Otra forma de ejecutar (a través del servicio disponible en el servidor de la universidad)
+PD. Se requiere estar conectado a la Vlan universitaria:
+
+URL: http://10.43.102.113:8888
+TOKEN: 2569082ed1341adb26ae0e591c4e7b83e5b09900fa09b3cc
